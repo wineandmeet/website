@@ -1,0 +1,9 @@
+[submodule "hugo-nederburg-theme"]
+	path = hugo-nederburg-theme
+	url = https://github.com/appernetic/hugo-nederburg-theme
+[submodule "themes/Nederburg"]
+	path = themes/Nederburg
+	url = https://github.com/appernetic/hugo-nederburg-theme
+[submodule "themes/minos"]
+	path = themes/minos
+	url = https://github.com/carsonip/hugo-theme-minos
