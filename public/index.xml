@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wine And Meet</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Wine And Meet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This is a Standard Post</title>
+      <link>http://example.org/post/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>http://example.org/post/work2/</guid>
+      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Get in touch</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Join us for wonderful wine tasting events in Paris. You can see the calendar of events on Meetup of Facebook.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hello,
+I am a wine amateur</description>
+    </item>
+    
+  </channel>
+</rss>
